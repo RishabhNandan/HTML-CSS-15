@@ -1,6 +1,6 @@
 # Project 15 - Visual Designer Landing Page (HTML & CSS)
 # Overview
-This is my 15th front-end web project, built using HTML and CSS*with Flexbox. 
+This is my 15th front-end web project, built using HTML and CSS with Flexbox. 
 The project was completed in 5 days and features a modern, minimalistic landing page for a Visual Designer.
 
 
